@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm Nabeela-Kanwal</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Nabeela Kanwal</h1>
+<h3 align="center">💻 Passionate Full Stack Developer | Laravel & JS Enthusiast 🚀</h3>
 
+---
 
+### 🌟 About Me  
+- 🌱 Currently learning **Livewire, Tailwind CSS, API Integrations, and Advanced Laravel**  
+- 👩‍💻 All of my projects are available at: *[Portfolio - Coming Soon]*  
+- 📝 I share my thoughts on tech at: *[Blog - Coming Soon]*  
+- 💬 Ask me about **Web Development, Laravel, Livewire, PHP, JavaScript, MySQL**  
+- 📫 Reach me at: **nabeelakanwal78@gmail.com**  
+- ⚡ Fun fact: *I love solving tricky bugs and building smooth UIs!* 😄  
 
-- 🌱 I’m currently learning **Livewire, Tailwind CSS, API Integrations, and Advanced Laravel**
+---
 
-- 👨‍💻 All of my projects are available at [Portfolio link coming soon*](Portfolio link coming soon*)
-
-- 📝 I regularly write articles on [Blog link coming soon](Blog link coming soon)
-
-- 💬 Ask me about **Web Development, Laravel, Livewire, PHP, JavaScript, MySQL**
-
-- 📫 How to reach me **nabeelakanwal78@gmail.com**
-
-- ⚡ Fun fact **I love solving tricky bugs and making UIs that feel smooth and satisfying! 😄**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/nabeela-kanwal-ba251b304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabeela-kanwal-ba251b304/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithnabeela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithnabeela/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/cs3scszo4j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/cs3scszo4j/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nabeela-kanwal-ba251b304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/codewithnabeela/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/u/cs3scszo4j/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeela-kanwal&show_icons=true&locale=en&layout=compact" alt="nabeela-kanwal" /></p>
+### 🛠️ Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,livewire,python,mysql,git,linux" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeela-kanwal&show_icons=true&locale=en" alt="nabeela-kanwal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeela-kanwal&" alt="nabeela-kanwal" /></p>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeela-kanwal&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeela-kanwal&layout=compact&theme=radical" alt="languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeela-kanwal&theme=radical" alt="streak"/>
+</p>
+
+---
+
+### ✨ Fun Extras  
+- 🌐 Exploring **Open Source Contributions**  
+- 🎨 Love designing beautiful **UI/UX** with TailwindCSS  
+- 🧩 Solving coding puzzles on **LeetCode**  
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*  
