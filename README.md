@@ -54,7 +54,7 @@ I'm a dedicated <b>Full Stack Developer</b> focused on building robust web apps 
         <img alt="LeetCode" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
     </a> &nbsp;&nbsp;
     <!-- TikTok -->
-    <a href="https://www.tiktok.com/@codewithnabeela" target="_blank" title="TikTok">
+    <a href="https://www.tiktok.com/@codewithnabeela" target="_blank" title="TikTok"> 
         <img alt="TikTok" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" />
     </a> &nbsp;&nbsp;
     <!-- GitHub -->
