@@ -17,8 +17,8 @@ I'm a dedicated <b>Full Stack Developer</b> focused on building robust web apps 
 
 <!-- Skills & Tech -->
 <h2>💻 Skills & Technologies</h2>
-<b>Frontend:</b> HTML · CSS · JavaScript · AJAX · jQuery · React · Bootstrap · Tailwind CSS<br/>
-<b>Backend:</b> PHP · CodeIgniter · Laravel · Livewire · REST APIs<br/>
+<b>Frontend:</b> HTML · CSS · JavaScript · AJAX · jQuery · React · Bootstrap · Livewire . Tailwind CSS<br/>
+<b>Backend:</b> PHP · CodeIgniter · Laravel · Python · REST APIs<br/>
 <b>Databases:</b> MySQL · SQLite<br/>
 <b>Tools:</b> Git · GitHub · Linux · Postman<br/>
 <b>Other:</b> API Integrations · Responsive UI Design · Problem Solving
