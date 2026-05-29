@@ -27,7 +27,7 @@ I'm a dedicated <b>Full Stack Developer</b> focused on building robust web apps 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,tailwind,php,laravel,mysql,git,github,linux,postman" />
 </p>
-
+ 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
