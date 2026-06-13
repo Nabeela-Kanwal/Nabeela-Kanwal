@@ -48,7 +48,7 @@ I'm a dedicated <b>Full Stack Developer</b> focused on building robust web apps 
     <!-- Instagram -->
     <a href="https://instagram.com/USERNAME" target="_blank" title="Instagram">
         <img alt="Instagram" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-    </a> &nbsp;&nbsp;
+    </a> &nbsp;&nbsp; 
     <!-- LeetCode -->
     <a href="https://leetcode.com/USERNAME" target="_blank" title="LeetCode">
         <img alt="LeetCode" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
